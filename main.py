@@ -1,8 +1,6 @@
 import pygame
 import time
 import random
-
-# hello
 from character_class import *
 from platform_class import *
 from power_up_class import *
